@@ -1,0 +1,3 @@
+[submodule "rnap_curso"]
+	path = rnap_curso
+	url = https://github.com/maponti/rnap_curso.git
